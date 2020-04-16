@@ -1,8 +1,4 @@
-去年欠你的蝴蝶
-跟夕阳落地平线
-你台词说了三遍
-我却假装没听见
-你的温柔被搁浅
-埋怨我的不体贴
-你说还有誓言没兑现
-怎么割切
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+Git tracks changes of files.
